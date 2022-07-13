@@ -1,6 +1,14 @@
-.lista{
-   font-size: 20%;
-   color: darkorchid;
-   text-decoration: overline;
-   background-color: rgba(0, 0, 0, 0.3)
+.lista {
+    font-size: 20%;
+    color: darkorchid;
+    background-color: transparent;
+    cursor: pointer;
+    display: inline-block;
+    transition-duration: 0,5px;
+}
+
+h2{
+    font-size: 2em;
+    color: gold;
+    font-family: fantasy;
 }
