@@ -49,11 +49,14 @@ background: #fff;
 }
 
 #lading-imagen {
-    background: url(/img/png-clipart-sword-black-clover-manga-anime-one-piece-sword-comics-manga.png);
+    background: url(img/png-clipart-sword-black-clover-manga-anime-one-piece-sword-comics-manga.png);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
     height: 50vh;
     flex: 0 1 60vw;
     margin: 0;
+    flex-direction: row;
+    justify-content: center;
+    
 }
