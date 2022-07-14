@@ -45,10 +45,11 @@ background: #fff;
 .btn:hover {
     background-color: transparent;
     color: #888;
+    transition-duration: 0.9s;
 }
 
 #lading-imagen {
-    background: url(/img/descarga.jfif);
+    background: url(/img/png-clipart-sword-black-clover-manga-anime-one-piece-sword-comics-manga.png);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
